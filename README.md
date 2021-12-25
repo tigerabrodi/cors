@@ -1,0 +1,2 @@
+# cors
+Notes about CORS.
